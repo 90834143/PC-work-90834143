@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+<html>
+<head>
+<title>圖片練習</title>
+</head>
+<body>
 
-You can use the [editor on GitHub](https://github.com/90834143/-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<a href="2nd.html">燒乳豬</a>
+<a href="3rd.html">北京烤鴨</a>
+<a href="4th.html">小籠包</a>
+<a href="5th.html">心得</a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<table border="1">
+<tr>
+<th valign="bottom"><h2>圖片</h2></th>
+<th valign="bottom"><h2 valign="middie">標題</h2></th>
+<th valign="bottom"><h2 valign="middie">說明</h2></th>
+</tr>
 
-### Markdown
+<tr>
+<td><img src="001.jpg" width="400" height="300"align="left"></td>
+<td align="center"><h3>[全文分享] 燒乳豬（亦稱烤乳豬）是一種料理，世界不同的飲食文化中都有燒乳豬這種菜色</h3></td>
+<td align="center">，而在中國，燒乳豬是廣東傳統食物的一種。<br>烤燒乳豬的製法是將二至六個星期大，仍未斷奶的乳豬宰殺後，以爐火燒烤而成。<br></td>
+</tr>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<tr>
+<td><img src="002.jpg" width="400" height="300"align="left"></td>
+<td align="center"><h3>[全文分享] 國名菜，又名北京填鴨，是享譽國際的著名北京料理</h3></td>
+<td align="center">，用料為優質肉食鴨北京鴨<br>，果木炭火烤製，色澤紅潤，肉質肥而不膩。<br></td>
+</tr>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/90834143/-/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<tr>
+<td><img src="003.jpg" width="400" height="300"align="left"></td>
+<td align="center"><h3>[全文分享]小籠饅頭的歷史可上溯自北宋，現在的河南開封為當年的首都汴京，至今仍流行「灌湯包」。</h3></td>
+<td align="center">靖康之難後，宋室南渡，將中原的麵食飲食習慣一併帶到南方<br>，逐漸本地化發展的小籠包亦因此開始成為江浙一帶的代表性食物<br></td>
